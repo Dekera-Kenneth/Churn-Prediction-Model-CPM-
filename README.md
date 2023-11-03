@@ -4,7 +4,7 @@ This Jupyter Notebook contains a Churn Prediction Model developed in Python. The
 # Features
 Churn Prediction: The model leverages historical data to make predictions about customer churn.
 Data Analysis: The notebook includes data exploration and analysis to understand the dataset's characteristics.
-Machine Learning: It employs various machine learning algorithms for classification and prediction.
+Machine Learning: It employs the DT algorithm for classification and prediction.
 Model Evaluation: Performance metrics and evaluation are provided to assess the model's accuracy.
 Prerequisites
 

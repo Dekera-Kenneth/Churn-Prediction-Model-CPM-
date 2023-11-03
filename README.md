@@ -19,7 +19,8 @@ Open the Jupyter Notebook in your Python environment.
 Execute the cells sequentially to load data, preprocess it, train the model, and make predictions.
 Customize the notebook by modifying the code or adding new features to improve prediction accuracy.
 Evaluate the model's performance based on provided metrics and visualizations.
-Dataset
+
+# Dataset
 Make sure you have a relevant dataset for churn prediction. You can replace the dataset used in the notebook with your own data, and adjust the data loading and preprocessing accordingly.
 
 # Support and Feedback
